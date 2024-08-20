@@ -1,0 +1,8 @@
+/* Article.css */
+.article-container {
+    width: 100%;
+}
+
+.selected-row {
+    background-color: rgb(63, 37, 166) !important; /* Change to a distinct color and ensure it's applied */
+}

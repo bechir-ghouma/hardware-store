@@ -1,0 +1,19 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .form-wrapper {
+    width: 100%;
+    max-width: 600px; /* Adjust the maximum width as needed */
+  }
+  .no-decoration {
+    text-decoration: none;
+    text-color: black;
+  }
+
+
+  .table-active {
+    background-color: #f2f2f2; /* or any other color you prefer */
+  }
+  
